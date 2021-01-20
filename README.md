@@ -7,4 +7,4 @@ Data: FlightRadar24.com.
 
 Live version: https://viz.kadeksatriadi.com/sriwijaya-sj182
 
-[Download WebGL build](https://github.com/KadekSatriadi/sriwijaya-air-sj182-visualisation/releases/download/0.1/webgl.zip).
+[Download WebGL build](https://github.com/KadekSatriadi/Sriwijaya-Air-SJ182-Visualisation/releases).
