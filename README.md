@@ -1,5 +1,5 @@
 # Sriwijaya Air SJ182 
-Visualisation of Sriwijaya Air SJ182 flights before the disaster. 
+Visualisation of Sriwijaya Air SJ182 flights leading to the crash. 
 
 Data: FlightRadar24.com.
 
